@@ -3,4 +3,4 @@ This file provides an introduction to the "Isegoria" project, a social network p
 
 The codebase is released to open source to honour the contributions of all involved and help pave the way for others in realising their vision. Accordingly, an MIT license has been selected for this software.
 
-Isegoria is a mobile first platform. The technical architecture comprises native apps (iOS and Android), a React web app, REST API middleware, and graph database. 
+Isegoria is a mobile first platform. The technical architecture comprises native apps (iOS and Android), a React web app, REST API middleware, and graph database. A docker file contains the server image. For completeness, all repositories generated throughtout the project have been provided. 
